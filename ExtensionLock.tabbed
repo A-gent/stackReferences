@@ -1,0 +1,15 @@
+
+
+MAIN == BuildSolu.sfap0            =       #.veg.7z(archive);
+
+SECONARY == iostream.cpp       =       io.tar(archivelib);
+
+THIRDARY == Workflow.js        =       Workflow.wim(archiveamt);
+
+
+FOURTHARY == hidden_relayheader.res		=		 2016-09-11_01-21-24.png(structure example);
+
+FIFTH == hidden_streamheader.res		=		 2016-09-11_01-21-29.png(structure example);
+
+
+SIXTH == CreateProjekt.sln			    =		 CreateProjekt.tar(archivesmtlib);
